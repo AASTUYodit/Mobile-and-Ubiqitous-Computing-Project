@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455686772141",
+    "firebase_url": "https://traffik-app-default-rtdb.firebaseio.com/",
+    "project_id": "traffik-app",
+    "storage_bucket": "traffik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455686772141:android:982c87a9a5914647003d24",
+        "android_client_info": {
+          "package_name": "decode.snu_traffik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455686772141-ed7bv6qp7qftbhj198uc243s0dm7ho7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyQUZ5p7zx7Ed4fGVcs2VlceCq8kgApM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455686772141-ed7bv6qp7qftbhj198uc243s0dm7ho7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
